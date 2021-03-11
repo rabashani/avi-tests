@@ -1,0 +1,19 @@
+{
+  "name": "avi-tests",
+  "version": "1.0.0",
+  "description": "presenting unit-testing to avi and pini group",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabashani/avi-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabashani/avi-tests/issues"
+  },
+  "homepage": "https://github.com/rabashani/avi-tests#readme"
+}
