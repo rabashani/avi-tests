@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rabashani/avi-tests/issues"
   },
-  "homepage": "https://github.com/rabashani/avi-tests#readme"
+  "homepage": "https://github.com/rabashani/avi-tests#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
